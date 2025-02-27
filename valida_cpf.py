@@ -1,6 +1,7 @@
 import os
 soma_cpf = 0
 multi = 10
+print("Bem-vindo ao Validador de CPF!")
 
 while True:
     cpf_input = input('Digite seu CPF em números: ')
